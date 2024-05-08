@@ -10,7 +10,7 @@ The dataset contains accelerometer readings from a mobile phone in the form of C
 
 ## Data Preparation
 
-1. Download the data from [here]((https://drive.google.com/file/d/1nzrtQpfaHL0OgJ_eXzA7VuEj7XotrSWO/view)).
+1. Download the data from [here](https://drive.google.com/file/d/1nzrtQpfaHL0OgJ_eXzA7VuEj7XotrSWO/view).
 2. Place the CSV files into appropriate folders: `running`, `idle`, `walking`, `stairs`.
 3. Run the `prepare_data.ipynb` script to calculate time domain features for each activity.
 
